@@ -4,3 +4,6 @@ h1{
     height: 150px;
     border: 5px solid black;
 }
+li{
+    color: darkmagenta;
+}
